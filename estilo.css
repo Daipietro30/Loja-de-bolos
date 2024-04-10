@@ -1,0 +1,17 @@
+body{
+    color: rgb(236, 218, 218); 
+}
+.site-todo{
+    background-color: rgb(233, 133, 133);
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cabecalho{
+    text-align: center;
+    background-image: url(Meio.png);
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
